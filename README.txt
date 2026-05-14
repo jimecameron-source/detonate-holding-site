@@ -1,6 +1,14 @@
-Detonate Labels holding site.
+Detonate Labels approved full landing site.
 
-Upload/import this folder contents to Vercel or GitHub.
+This package contains the full approved landing page with:
+- sticky navigation
+- full hero section
+- services section
+- Overprint section
+- contact section
+- inline logo with white text
+- Tailwind dependencies included
+
+Vercel settings:
 Build command: npm run build
 Output directory: dist
-Do not change GoDaddy DNS until the temporary Vercel URL is approved.
